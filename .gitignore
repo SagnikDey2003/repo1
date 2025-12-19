@@ -2,4 +2,6 @@
 *.out
 *.exe
 *.obj
-*.vscode/
+.vscode/
+bin/
+
